@@ -1,5 +1,5 @@
 ### Olá! Seja Bem Vindo  👋
-### Desenvolvedor Web FullStack ⌛(terminando)
+### Desenvolvedor Web FullStack ⌛(em curso)
 
 
 <br>
