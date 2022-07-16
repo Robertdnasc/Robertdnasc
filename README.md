@@ -1,5 +1,5 @@
 ### Olá! Seja Bem Vindo  👋
-### Desenvolvedor Web FullStack ⌛(em curso)
+### Desenvolvedor (pentester)
 
 
 <br>
@@ -17,10 +17,6 @@
   <img align="center" alt="Robert-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Robert-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="35" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img align="center" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
-  <img align="center" height="35" width="35" src="https://img.icons8.com/color/50/000000/firebase.png"/>
-  <img align="center" height="35" width="35" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-shadow-tal-revivo.png"/>
-  <img align="center" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png">
 <div>  
 <br>  
 <a href="https://www.instagram.com/robert_rodrigueess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
